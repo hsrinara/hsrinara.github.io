@@ -4,31 +4,33 @@ body {
 
 h1 {
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-  font-size: 24px;
+  font-size: 52px;
   font-style: normal;
   font-variant: normal;
   font-weight: 500;
   line-height: 26.4px;
   color: #dce3ef;
+  margin: 50px 0 40px 40px;
 }
 
 p {
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-  font-size: 14px;
+  font-size: 24px;
   font-style: normal;
   font-variant: normal;
   font-weight: 400;
   line-height: 20px;
+  margin: 10px 10px 10px 80px;
   color: #dce3ef;
-  text-align: center;
 }
 
 li { 
   font-family: "Courier New", Courier, "Lucida Sans Typewriter", "Lucida Typewriter", monospace;
-  font-size: 14px; 
+  font-size: 24px; 
   font-style: normal;
   font-variant: normal;
   font-weight: 400;
   line-height: 20px;
   color: #dce3ef;
+  margin: 10px 10px 10px 80px;
 }
